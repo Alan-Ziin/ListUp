@@ -27,7 +27,7 @@ Este projeto utiliza as seguintes tecnologias:
 Para começar a trabalhar com o projeto, clone este repositório para o seu computador com o seguinte comando:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone (https://github.com/Alan-Ziin/ListUp.git)
 ```
 
 ## 2. Instalando Dependências
