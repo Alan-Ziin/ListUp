@@ -14,11 +14,9 @@ Este é um aplicativo de listas desenvolvido para facilitar o gerenciamento de l
 Este projeto utiliza as seguintes tecnologias:
 
 - **React Native**: Framework para desenvolver aplicativos móveis nativos.
-- **Firebase**: Utilizado para autenticação de usuários e armazenamento de dados no Firestore.
+- **Firebase e Firestore**: Utilizado para autenticação de usuários e um banco de dados em tempo real para armazenar as listas criadas pelos usuários.
 - **React Navigation**: Biblioteca de navegação entre telas no aplicativo.
 - **Expo**: Para facilitar o desenvolvimento e testes no dispositivo.
-- **Ionicons**: Biblioteca de ícones utilizada para o botão de recarregar as listas e outros ícones.
-- **Firestore (Firebase)**: Banco de dados em tempo real para armazenar as listas criadas pelos usuários.
 
 ## Como Usar 🤔
 
